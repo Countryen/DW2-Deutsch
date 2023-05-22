@@ -5353,7 +5353,7 @@ Civil War in EMPIRE		;Bürgerkrieg in {0}
 Civil War Detail EMPIRE NEWEMPIRE COLONYCOUNT		;Ein Bürgerkrieg steht bevor im {0}!\n\nMüder der Unterdrückung und Tyrannei, haben {2} Kolonien ihre Unabhängigkeit erklärt und haben das {0} verlassen!\n\nSie haben ein neues Reich gegründet, das {1}.\n\nDer Krieg zwischen den zwei Fraktionen geht weiter.
 
 Civil War!		;Bürgerkrieg!
-Your Empire Civil War Detail NEWEMPIRE COLONYCOUNT		;Katastrophe! Unser Reich hat sich in zwei Teile gespalten!\n\nMassive Unruhen führten dazu, dass {1} Kolonien ihre Unabhängigkeit erklärt und unser Reich verlassen haben. Sie haben ein neues Reich gegründet, das {0}.\n\nWir sind nun mi diesen Verrätern im Krieg - wir werden zurückholen, was uns gehört!
+Your Empire Civil War Detail NEWEMPIRE COLONYCOUNT		;Katastrophe! Unser Reich hat sich in zwei Teile gespalten!\n\nMassive Unruhen führten dazu, dass {1} Kolonien ihre Unabhängigkeit erklärt und unser Reich verlassen haben. Sie haben ein neues Reich gegründet, das {0}.\n\nWir sind nun mit diesen Verrätern im Krieg - wir werden zurückholen, was uns gehört!
 
 Left-click to move up Explanation		;Left-click to move up\nShift-Left-click to move to top
 Left-click to move down Explanation		;Left-click to move down\nShift-Left-click to move to bottom
